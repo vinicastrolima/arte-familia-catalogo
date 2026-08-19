@@ -1,0 +1,531 @@
+{
+  "generatedAt": "2026-08-17",
+  "source": "matriz_catalogo_editorial.xlsx",
+  "products": [
+    {
+      "id": "kits-festa-001",
+      "category": "Kits Festa",
+      "subcategory": "Kits por pessoas",
+      "name": "Kit Festa para 2 pessoas",
+      "description": "Salgados, doces e Bento Cake de 10 cm",
+      "details": "Salgados, doces e Bento Cake de 10 cm Inclui: 5 canudos; 5 empadas; 5 coxinhas; 10 brigadeiros; Bento Cake 10 cm",
+      "size": "2 pessoas",
+      "price": 82.99,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "kits por pessoas"
+      ]
+    },
+    {
+      "id": "kits-festa-002",
+      "category": "Kits Festa",
+      "subcategory": "Kits por pessoas",
+      "name": "Kit Festa para 5 pessoas",
+      "description": "Salgados, doces e Bento Cake de 15 cm baixo",
+      "details": "Salgados, doces e Bento Cake de 15 cm baixo Inclui: 10 canudos; 10 empadas; 10 coxinhas; 10 brigadeiros; 10 beijinhos; Bento Cake 15 cm baixo",
+      "size": "5 pessoas",
+      "price": 146.99,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "kits por pessoas"
+      ]
+    },
+    {
+      "id": "kits-festa-003",
+      "category": "Kits Festa",
+      "subcategory": "Kits por pessoas",
+      "name": "Kit Festa para 10 pessoas",
+      "description": "Salgados, doces e Bento Cake de 15 cm com 3 camadas",
+      "details": "Salgados, doces e Bento Cake de 15 cm com 3 camadas Inclui: 15 canudos; 10 pastéis; 15 empadas; 10 trouxinhas; 10 coxinhas; 20 brigadeiros; 20 beijinhos; Bento Cake 15 cm com 3 camadas",
+      "size": "10 pessoas",
+      "price": 244.99,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "kits por pessoas"
+      ]
+    },
+    {
+      "id": "kits-festa-004",
+      "category": "Kits Festa",
+      "subcategory": "Kits por pessoas",
+      "name": "Kit Festa para 15 pessoas",
+      "description": "Salgados, doces e Bento Cake de 15 cm com 4 camadas",
+      "details": "Salgados, doces e Bento Cake de 15 cm com 4 camadas Inclui: 20 canudos; 15 pastéis; 20 empadas; 15 trouxinhas; 20 coxinhas; 20 brigadeiros; 20 beijinhos; 20 casadinhos; Bento Cake 15 cm com 4 camadas",
+      "size": "15 pessoas",
+      "price": 373.99,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "kits por pessoas"
+      ]
+    },
+    {
+      "id": "kits-festa-005",
+      "category": "Kits Festa",
+      "subcategory": "Kits por pessoas",
+      "name": "Kit Festa para 20 pessoas",
+      "description": "Salgados, doces e Bento Cake de 20 cm com 3 camadas",
+      "details": "Salgados, doces e Bento Cake de 20 cm com 3 camadas Inclui: 25 canudos; 24 pastéis; 24 empadas; 24 trouxinhas; 20 coxinhas; 20 brigadeiros; 20 beijinhos; 20 casadinhos; 20 tortiletes; Bento Cake 20 cm com 3 camadas",
+      "size": "20 pessoas",
+      "price": 425.99,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "kits por pessoas"
+      ]
+    },
+    {
+      "id": "bento-cakes-006",
+      "category": "Bento Cakes",
+      "subcategory": "Bento Cake padrão",
+      "name": "Bento Cake 10 cm",
+      "description": "Bolo com 2 camadas e 1 recheio",
+      "details": "Bolo com 2 camadas e 1 recheio Consulte a disponibilidade de decoração e recheio conforme a agenda.",
+      "size": "2 pessoas",
+      "price": 46.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "bento cake padrão"
+      ]
+    },
+    {
+      "id": "bento-cakes-007",
+      "category": "Bento Cakes",
+      "subcategory": "Bento Cake padrão",
+      "name": "Bento Cake 15 cm baixo",
+      "description": "Bolo com 2 camadas e 1 recheio",
+      "details": "Bolo com 2 camadas e 1 recheio Consulte a disponibilidade de decoração e recheio conforme a agenda.",
+      "size": "5–7 pessoas",
+      "price": 76.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "bento cake padrão"
+      ]
+    },
+    {
+      "id": "bento-cakes-008",
+      "category": "Bento Cakes",
+      "subcategory": "Bento Cake padrão",
+      "name": "Bento Cake 15 cm alto",
+      "description": "Bolo com 4 camadas e 3 recheios",
+      "details": "Bolo com 4 camadas e 3 recheios Consulte a disponibilidade de decoração e recheio conforme a agenda.",
+      "size": "12–15 pessoas",
+      "price": 158.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "bento cake padrão"
+      ]
+    },
+    {
+      "id": "bolos-e-tortas-009",
+      "category": "Bolos e Tortas",
+      "subcategory": "Rocamboles",
+      "name": "Rocambole Francesco M",
+      "description": "Massa de chocolate com recheio de leite condensado cozido no forno e cobertura de chocolate.",
+      "details": "",
+      "size": "5–7 pessoas",
+      "price": 55.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "rocamboles"
+      ]
+    },
+    {
+      "id": "bolos-e-tortas-010",
+      "category": "Bolos e Tortas",
+      "subcategory": "Tortas",
+      "name": "Tortiletão",
+      "description": "Massa amanteigada com recheio de tortilete",
+      "details": "",
+      "size": "8–10 pessoas",
+      "price": 65.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "tortas"
+      ]
+    },
+    {
+      "id": "bolos-e-tortas-011",
+      "category": "Bolos e Tortas",
+      "subcategory": "Tortas",
+      "name": "Empadão de frango",
+      "description": "Empadão com recheio de frango",
+      "details": "",
+      "observation": "Consultar disponibilidade de empadão de camarão com catupiry.",
+      "size": "8–10 pessoas",
+      "price": 70.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "tortas"
+      ]
+    },
+    {
+      "id": "bolos-e-tortas-012",
+      "category": "Bolos e Tortas",
+      "subcategory": "Rocamboles",
+      "name": "Rocambole Francesco G",
+      "description": "Massa de chocolate com recheio de leite condensado cozido no forno e cobertura de chocolate.",
+      "details": "",
+      "size": "10–12 pessoas",
+      "price": 110.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "rocamboles"
+      ]
+    },
+    {
+      "id": "bolos-e-tortas-013",
+      "category": "Bolos e Tortas",
+      "subcategory": "Bolos para comemorar",
+      "name": "Francesco Feliz Aniversário",
+      "description": "Massa de chocolate com recheio de leite condensado cozido no forno e cobertura de chocolate.",
+      "details": "Bolo redondo de 20 cm com topper incluso.",
+      "size": "15–18 pessoas",
+      "price": 125.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "bolos para comemorar"
+      ]
+    },
+    {
+      "id": "doces-014",
+      "category": "Doces",
+      "subcategory": "Doces simples",
+      "name": "Doces simples — 25 unidades",
+      "description": "Escolha seus sabores.",
+      "details": "Brigadeiro tradicional;Brigadeiro branco;Moranguinho;Beijinho;Casadinho;Tortilete",
+      "observation": "A combinação de sabores pode ser alterada a cada 25 unidades.",
+      "size": "25 unidades",
+      "price": 36.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "doces simples"
+      ]
+    },
+    {
+      "id": "doces-015",
+      "category": "Doces",
+      "subcategory": "Doces simples",
+      "name": "Doces simples — 50 unidades",
+      "description": "Escolha seus sabores.",
+      "details": "Brigadeiro tradicional;Brigadeiro branco;Moranguinho;Beijinho;Casadinho;Tortilete",
+      "observation": "A combinação de sabores pode ser alterada a cada 25 unidades.",
+      "size": "50 unidades",
+      "price": 70.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "doces simples"
+      ]
+    },
+    {
+      "id": "doces-016",
+      "category": "Doces",
+      "subcategory": "Doces simples",
+      "name": "Doces simples — 100 unidades",
+      "description": "Escolha seus sabores.",
+      "details": "Brigadeiro tradicional;Brigadeiro branco;Moranguinho;Beijinho;Casadinho;Tortilete",
+      "observation": "A combinação de sabores pode ser alterada a cada 25 unidades.",
+      "size": "100 unidades",
+      "price": 135.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "doces simples"
+      ]
+    },
+    {
+      "id": "doces-017",
+      "category": "Doces",
+      "subcategory": "Doces gourmet",
+      "name": "Doces gourmet — 25 unidades",
+      "description": "Escolha seus sabores.",
+      "details": "Oreo;Ninho;Ninho com Nutella;Romeu e Julieta;Churros;Cajuzinho;Surpresa de uva;Olho de sogra",
+      "observation": "A combinação de sabores pode ser alterada a cada 25 unidades.",
+      "size": "25 unidades",
+      "price": 45.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "doces gourmet"
+      ]
+    },
+    {
+      "id": "doces-018",
+      "category": "Doces",
+      "subcategory": "Doces gourmet",
+      "name": "Doces gourmet — 50 unidades",
+      "description": "Escolha seus sabores.",
+      "details": "Oreo;Ninho;Ninho com Nutella;Romeu e Julieta;Churros;Cajuzinho;Surpresa de uva;Olho de sogra",
+      "observation": "A combinação de sabores pode ser alterada a cada 25 unidades.",
+      "size": "50 unidades",
+      "price": 88.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "doces gourmet"
+      ]
+    },
+    {
+      "id": "doces-019",
+      "category": "Doces",
+      "subcategory": "Doces gourmet",
+      "name": "Doces gourmet — 100 unidades",
+      "description": "Escolha seus sabores.",
+      "details": "Oreo;Ninho;Ninho com Nutella;Romeu e Julieta;Churros;Cajuzinho;Surpresa de uva;Olho de sogra",
+      "observation": "A combinação de sabores pode ser alterada a cada 25 unidades.",
+      "size": "100 unidades",
+      "price": 170.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "doces gourmet"
+      ]
+    },
+    {
+      "id": "salgados-020",
+      "category": "Salgados",
+      "subcategory": "Salgados fritos",
+      "name": "Coxinha — 25 unidades",
+      "description": "Coxinha frita. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "details": "Coxinha frita. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "size": "25 unidades",
+      "price": 34.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "salgados fritos"
+      ]
+    },
+    {
+      "id": "salgados-021",
+      "category": "Salgados",
+      "subcategory": "Salgados fritos",
+      "name": "Coxinha — 50 unidades",
+      "description": "Coxinha frita. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "details": "Coxinha frita. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "size": "50 unidades",
+      "price": 65.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "salgados fritos"
+      ]
+    },
+    {
+      "id": "salgados-022",
+      "category": "Salgados",
+      "subcategory": "Salgados fritos",
+      "name": "Coxinha — 100 unidades",
+      "description": "Coxinha frita. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "details": "Coxinha frita. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "size": "100 unidades",
+      "price": 120.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "salgados fritos"
+      ]
+    },
+    {
+      "id": "salgados-023",
+      "category": "Salgados",
+      "subcategory": "Salgados simples assados",
+      "name": "Empada ou trouxinha — 25 unidades",
+      "description": "Empada e trouxinha assadas. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "details": "Empada e trouxinha assadas. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "size": "25 unidades",
+      "price": 40.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "salgados simples assados"
+      ]
+    },
+    {
+      "id": "salgados-024",
+      "category": "Salgados",
+      "subcategory": "Salgados simples assados",
+      "name": "Empada ou trouxinha — 50 unidades",
+      "description": "Empada e trouxinha assadas. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "details": "Empada e trouxinha assadas. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "size": "50 unidades",
+      "price": 75.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "salgados simples assados"
+      ]
+    },
+    {
+      "id": "salgados-025",
+      "category": "Salgados",
+      "subcategory": "Salgados simples assados",
+      "name": "Empada ou trouxinha — 100 unidades",
+      "description": "Empada e trouxinha assadas. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "details": "Empada e trouxinha assadas. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "size": "100 unidades",
+      "price": 145.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "salgados simples assados"
+      ]
+    },
+    {
+      "id": "salgados-026",
+      "category": "Salgados",
+      "subcategory": "Salgados especiais",
+      "name": "Canudinho ou pastelzinho — 25 unidades",
+      "description": "Pastelzinho e canudinho. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "details": "Pastelzinho e canudinho. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "size": "25 unidades",
+      "price": 45.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "salgados especiais"
+      ]
+    },
+    {
+      "id": "salgados-027",
+      "category": "Salgados",
+      "subcategory": "Salgados especiais",
+      "name": "Canudinho ou pastelzinho — 50 unidades",
+      "description": "Pastelzinho e canudinho. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "details": "Pastelzinho e canudinho. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "size": "50 unidades",
+      "price": 88.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "salgados especiais"
+      ]
+    },
+    {
+      "id": "salgados-028",
+      "category": "Salgados",
+      "subcategory": "Salgados especiais",
+      "name": "Canudinho ou pastelzinho — 100 unidades",
+      "description": "Pastelzinho e canudinho. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "details": "Pastelzinho e canudinho. Consulte os sabores disponíveis e a possibilidade de misturar opções por lote.",
+      "size": "100 unidades",
+      "price": 170.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "salgados especiais"
+      ]
+    },
+    {
+      "id": "mini-lanches-029",
+      "category": "Mini Lanches",
+      "subcategory": "Itens unitários",
+      "name": "Mini Hot Dog",
+      "description": "Lanche individual para eventos",
+      "details": "Lanche individual para eventos",
+      "size": "unidade",
+      "price": 4.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "itens unitários"
+      ]
+    },
+    {
+      "id": "mini-lanches-030",
+      "category": "Mini Lanches",
+      "subcategory": "Itens unitários",
+      "name": "Mini Hambúrguer",
+      "description": "Lanche individual para eventos",
+      "details": "Lanche individual para eventos",
+      "size": "unidade",
+      "price": 4.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "itens unitários"
+      ]
+    },
+    {
+      "id": "coffee-break-031",
+      "category": "Coffee Break",
+      "subcategory": "Serviço",
+      "name": "Coffee Break para eventos",
+      "description": "Composição personalizada com doces, salgados, bebidas, frutas e mini lanches.",
+      "details": "Composição sob medida para reuniões, treinamentos, inaugurações e eventos. Pode incluir doces simples e gourmet, salgados assados e fritos, canapés, mini lanches, fatias de bolo, frutas, café, sucos, chocolate quente, refrigerantes, água e descartáveis, conforme a quantidade de pessoas, horário, local e ocasião. Solicite orçamento com data, número de pessoas, endereço, duração e necessidade de montagem.",
+      "size": "sob medida",
+      "price": null,
+      "priceLabel": "sob orçamento",
+      "image": null,
+      "images": [
+        "/manus-storage/coffee-break-1_0c7dd3fa.jpg",
+        "/manus-storage/coffee-break-2-jpeg_fdaf4611.jpg"
+      ],
+      "tags": [
+        "serviço"
+      ]
+    },
+    {
+      "id": "bolos-personalizados-032",
+      "category": "Bolos Personalizados",
+      "subcategory": "Orçamento",
+      "name": "Bolo personalizado",
+      "description": "Bolo conforme referência, tamanho, recheio e acabamento",
+      "details": "Bolo conforme referência, tamanho, recheio e acabamento. Envie foto de referência, data, número de pessoas, tamanho desejado, sabores e local para receber o orçamento. É possível enviar mais de uma referência visual.",
+      "size": "15–30 cm",
+      "price": null,
+      "priceLabel": "sob orçamento",
+      "image": null,
+      "images": [
+        "/manus-storage/bolo-decorado-1_1a80c9e8.jpg",
+        "/manus-storage/bolo-decorado-2_6cde4865.jpg"
+      ],
+      "tags": [
+        "orçamento"
+      ]
+    },
+    {
+      "id": "salgados-033",
+      "category": "Salgados",
+      "subcategory": "Salgados especiais",
+      "name": "Canapé",
+      "description": "Salgado especial para eventos, nos sabores frango ou queijo do reino.",
+      "details": "Canapé para eventos e coffee breaks. Sabores disponíveis: frango ou queijo do reino. Consulte a disponibilidade conforme a agenda.",
+      "size": "100 unidades",
+      "price": 200.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "salgados especiais"
+      ]
+    },
+    {
+      "id": "mini-lanches-034",
+      "category": "Mini Lanches",
+      "subcategory": "Itens unitários",
+      "name": "Mini Sanduíche Natural",
+      "description": "Lanche individual natural para eventos e coffee breaks.",
+      "details": "Mini sanduíche natural. Consulte os sabores disponíveis, pedido mínimo e disponibilidade conforme a agenda.",
+      "size": "unidade",
+      "price": 4.0,
+      "priceLabel": null,
+      "image": null,
+      "tags": [
+        "itens unitários"
+      ]
+    }
+  ]
+}
