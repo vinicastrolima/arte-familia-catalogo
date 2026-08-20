@@ -7,11 +7,44 @@
 - [x] Validar desktop e mobile.
 - [x] Salvar novo checkpoint.
 
+## Versionamento no Git
+- [ ] Verificar se o Git está instalado e o estado do projeto.
+- [ ] Configurar identidade e repositório remoto.
+- [ ] Criar e revisar o commit.
+- [ ] Fazer push e confirmar o resultado.
+
+## Correção da capa
+- [x] Usar na capa a mesma foto do Kit Festa para 20 pessoas.
+- [x] Validar capa, build e responsividade.
+- [x] Criar checkpoint.
+
+## Fluxo local, GitHub e publicação
+- [x] Otimizar as imagens para uso no repositório.
+- [x] Validar que o site local carrega todas as imagens.
+- [x] Preparar commit com código e assets.
+- [ ] Fazer push para o GitHub após conferência.
+- [ ] Publicar somente depois da validação.
+
+## Compatibilidade das imagens no modo local
+- [x] Diagnosticar as referências `/manus-storage` e os assets disponíveis.
+- [x] Preparar uma cópia local das imagens do catálogo.
+- [x] Ajustar o código para carregar as imagens localmente.
+- [x] Validar site local, imagens e build.
+- [x] Criar checkpoint.
+
+## Revisão do ZIP enviado e restauração de imagens
+- [x] Extrair e comparar o ZIP enviado com o projeto atual.
+- [x] Identificar imagens e assets ausentes.
+- [x] Restaurar as imagens sem perder os dados e ajustes atuais.
+- [x] Aplicar correções adicionais necessárias no projeto.
+- [x] Validar responsividade e build.
+- [x] Criar checkpoint.
+
 ## Pacote completo do site
-- [ ] Revisar arquivos necessários para o pacote.
-- [ ] Criar ZIP completo do projeto.
-- [ ] Validar conteúdo e integridade do ZIP.
-- [ ] Enviar arquivo ao usuário.
+- [x] Revisar arquivos necessários para o pacote.
+- [x] Criar ZIP completo do projeto.
+- [x] Validar conteúdo e integridade do ZIP.
+- [x] Enviar arquivo ao usuário.
 
 ## Correção do tamanho do Canapé
 - [x] Alterar o tamanho de “sob consulta” para “100 unidades”.

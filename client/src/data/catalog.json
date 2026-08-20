@@ -471,8 +471,8 @@
       "priceLabel": "sob orçamento",
       "image": null,
       "images": [
-        "/manus-storage/coffee-break-1_0c7dd3fa.jpg",
-        "/manus-storage/coffee-break-2-jpeg_fdaf4611.jpg"
+        "/images/coffee-break-1.jpg",
+        "/images/coffee-break-2-jpeg.jpg"
       ],
       "tags": [
         "serviço"
@@ -490,8 +490,8 @@
       "priceLabel": "sob orçamento",
       "image": null,
       "images": [
-        "/manus-storage/bolo-decorado-1_1a80c9e8.jpg",
-        "/manus-storage/bolo-decorado-2_6cde4865.jpg"
+        "/images/bolo-decorado-1.jpg",
+        "/images/bolo-decorado-2.jpg"
       ],
       "tags": [
         "orçamento"
